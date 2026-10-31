@@ -1,0 +1,364 @@
+{
+  "resumes": [
+    {
+      "fullname": "Pranav ",
+      "location": "Kochi",
+      "phone": "8301928931",
+      "job": "Machine Learning Engineer",
+      "email": "pranavraj5726@gmail.com",
+      "github": "pranavgit",
+      "linkedin": "pranavlinkedin",
+      "degree": "B.Tech",
+      "college": "KTU",
+      "year": "2026",
+      "skills": [
+        "Python",
+        "TensorFlow",
+        "PyTorch",
+        "Scikit-learn",
+        "Deep Learning",
+        "Data Preprocessing",
+        "Model Deployment",
+        "Natural Language Processing",
+        "Computer Vision",
+        "MLOps"
+      ],
+      "summary": "Machine learning engineer experienced in developing, training, and deploying machine learning models. Skilled in data preprocessing, model evaluation, and AI-driven solution development.",
+      "id": "Kmn0TjJjNwU"
+    },
+    {
+      "fullname": "Vishnu ",
+      "location": "Thrissur",
+      "phone": "9847586324",
+      "job": "DevOps Engineer",
+      "email": "vishnupr82@gmail.com",
+      "github": "pr62git",
+      "linkedin": "vishnuprlinkedin",
+      "degree": "Btech",
+      "college": "KTU",
+      "year": "2026",
+      "skills": [
+        "Docker",
+        "Kubernetes",
+        "CI/CD",
+        "AWS",
+        "Linux",
+        "Jenkins",
+        "Terraform",
+        "Git",
+        "Monitoring",
+        "Infrastructure as Code"
+      ],
+      "summary": "DevOps engineer experienced in automating deployment pipelines, managing cloud infrastructure, and improving software delivery processes through CI/CD practices.",
+      "id": "wXILp6k2xns"
+    },
+    {
+      "fullname": "Sudheesh ",
+      "location": "Palakkad",
+      "phone": "8741529863",
+      "job": "Data Scientist",
+      "email": "sudeeshkrishn52@gmail.com",
+      "github": "sud62git",
+      "linkedin": "sudhilinkdein",
+      "degree": "Btech",
+      "college": "KTU",
+      "year": "2026",
+      "skills": [
+        "Python",
+        "Machine Learning",
+        "Statistics",
+        "Data Visualization",
+        "Pandas",
+        "NumPy",
+        "Deep Learning",
+        "Model Evaluation",
+        "Data Wrangling",
+        "SQL"
+      ],
+      "summary": "Data scientist with expertise in machine learning, statistical analysis, and predictive modeling. Skilled in transforming large datasets into actionable insights.",
+      "id": "tcykXpg-in4"
+    },
+    {
+      "fullname": "Vaishnav",
+      "location": "Palakkad",
+      "phone": "8546328456",
+      "job": "Full Stack Developer",
+      "email": "vaishnavp61@gmail.com",
+      "github": "vaish78git",
+      "linkedin": "vaishnnavlinkdein",
+      "degree": "Btech",
+      "college": "KTU",
+      "year": "2026",
+      "skills": [
+        "JavaScript",
+        "React",
+        "Node.js",
+        "Express",
+        "MongoDB",
+        "HTML",
+        "CSS",
+        "REST APIs",
+        "Git",
+        "Deployment"
+      ],
+      "summary": "Full stack developer with hands-on experience in developing end-to-end web applications using both frontend and backend technologies. Adept at building scalable systems and delivering high-quality solutions.",
+      "id": "sVJ9QXh0gsg"
+    },
+    {
+      "fullname": "Nithin",
+      "location": "Idukki",
+      "phone": "8754125784",
+      "job": "Business Analyst",
+      "email": "nithin57@gmail.com",
+      "github": "nith56git",
+      "linkedin": "nithinlinkedin",
+      "degree": "Btech",
+      "college": "KTU",
+      "year": "2026",
+      "skills": [
+        "Requirement Gathering",
+        "Business Process Analysis",
+        "Data Analysis",
+        "Stakeholder Communication",
+        "Documentation",
+        "Process Improvement",
+        "SQL",
+        "Agile Methodology",
+        "Problem Solving",
+        "Reporting"
+      ],
+      "summary": "Business analyst experienced in analyzing business processes, gathering requirements, and providing data-driven insights to support strategic decision-making.",
+      "id": "8OAzKkHjqig"
+    },
+    {
+      "fullname": "Hari",
+      "location": "Trivandrum",
+      "phone": "9541685426",
+      "job": "React Developer",
+      "email": "hari123@gmail.com",
+      "github": "hari67git",
+      "linkedin": "harilinkedin",
+      "degree": "BCA",
+      "college": "MG",
+      "year": "2025",
+      "skills": [
+        "React",
+        "JavaScript",
+        "JSX",
+        "React Hooks",
+        "Redux",
+        "Component Lifecycle",
+        "API Integration",
+        "State Management",
+        "HTML",
+        "CSS"
+      ],
+      "summary": "React developer with strong knowledge of component-based architecture, React hooks, and state management. Experienced in building fast, dynamic, and responsive web applications.",
+      "id": "ggRGQoACpaE"
+    },
+    {
+      "fullname": "Yadhu",
+      "location": "Kottayam",
+      "phone": "7562485642",
+      "job": "Software Developer",
+      "email": "yadhu34@gmail.com",
+      "github": "yadhu456git",
+      "linkedin": "yadhulinkedin",
+      "degree": "MCA",
+      "college": "Calicut",
+      "year": "2023",
+      "skills": [
+        "JavaScript",
+        "Python",
+        "Java",
+        "Object-Oriented Programming",
+        "Data Structures",
+        "Algorithms",
+        "Git",
+        "REST APIs",
+        "Debugging",
+        "Software Testing"
+      ],
+      "summary": "Results-driven software developer with strong experience in designing, developing, and maintaining scalable applications. Skilled in programming, debugging, and implementing efficient software solutions using modern development practices.",
+      "id": "pTQKo9BxmTo"
+    },
+    {
+      "fullname": "Jerry",
+      "location": "Palakkad",
+      "phone": "6012358746",
+      "job": "Node.js Developer",
+      "email": "jerry65@gmail.com",
+      "github": "jerry65git",
+      "linkedin": "jerrylinkedin",
+      "degree": "Msc",
+      "college": "Calicut",
+      "year": "2025",
+      "skills": [
+        "Node.js",
+        "Express.js",
+        "REST APIs",
+        "MongoDB",
+        "Authentication",
+        "Middleware",
+        "Server Side Logic",
+        "API Security",
+        "Database Integration",
+        "Git"
+      ],
+      "summary": "Node.js developer experienced in building scalable backend services and REST APIs. Skilled in server-side development, database integration, and performance optimization.",
+      "id": "1pzhPuVMZZU"
+    },
+    {
+      "fullname": "Robin",
+      "location": "Kochi",
+      "phone": "7845126589",
+      "job": "Product Manager",
+      "email": "robin34@gmail.com",
+      "github": "robin89git",
+      "linkedin": "robinlinkedin",
+      "degree": "MBA",
+      "college": "MG",
+      "year": "2026",
+      "skills": [
+        "Product Strategy",
+        "Market Research",
+        "Roadmap Planning",
+        "Stakeholder Management",
+        "Agile Methodology",
+        "User Story Creation",
+        "Product Lifecycle Management",
+        "Data Analysis",
+        "Leadership",
+        "Communication"
+      ],
+      "summary": "Product manager skilled in defining product strategies, managing product roadmaps, and delivering solutions that meet user and business needs.",
+      "id": "67rAoGf2vOU"
+    },
+    {
+      "fullname": "Fazil",
+      "location": "Kannur",
+      "phone": "8745125698",
+      "job": "Cybersecurity Analyst",
+      "email": "fazil56@gmail.com",
+      "github": "fazil98git",
+      "linkedin": "fazillinkedin",
+      "degree": "Btech",
+      "college": "KTU",
+      "year": "2026",
+      "skills": [
+        "Network Security",
+        "Vulnerability Assessment",
+        "Penetration Testing",
+        "Security Monitoring",
+        "Incident Response",
+        "Risk Assessment",
+        "Firewalls",
+        "Encryption",
+        "Security Compliance",
+        "Threat Analysis"
+      ],
+      "summary": "Cybersecurity analyst focused on protecting systems and networks from cyber threats. Skilled in security monitoring, vulnerability assessment, and incident response.",
+      "id": "4NkbhrGlecQ"
+    }
+  ],
+  "downloads": [
+    {
+      "timeStamp": "29/10/2026,10:51:21",
+      "resumeImg": "https://res.cloudinary.com/tmmivgko/image/upload/v1793251279/gkhhxbqlufz6mgixgkwv.png",
+      "resumeId": "Kmn0TjJjNwU",
+      "jobRole": "Machine Learning Engineer",
+      "id": "7LYVcHd6Nd4"
+    },
+    {
+      "timeStamp": "29/10/2026,11:31:26",
+      "resumeImg": "https://res.cloudinary.com/tmmivgko/image/upload/v1793253685/tisj33urb0dfxtwnzbgd.png",
+      "resumeId": "Kmn0TjJjNwU",
+      "jobRole": "Machine Learning Engineer",
+      "id": "7pjl3Sei-Ts"
+    },
+    {
+      "timeStamp": "30/10/2026,10:33:32",
+      "resumeImg": "https://res.cloudinary.com/tmmivgko/image/upload/v1793336610/b7snis938hc8uevmywjr.png",
+      "resumeId": "wXILp6k2xns",
+      "jobRole": "DevOps Engineer",
+      "id": "2Mn8dVtfPuI"
+    },
+    {
+      "timeStamp": "30/10/2026,10:33:34",
+      "resumeImg": "https://res.cloudinary.com/tmmivgko/image/upload/v1793336612/hfkusc3dxuxbry6mexld.png",
+      "resumeId": "wXILp6k2xns",
+      "jobRole": "DevOps Engineer",
+      "id": "7MH9DvnV_rI"
+    },
+    {
+      "timeStamp": "30/10/2026,10:33:39",
+      "resumeImg": "https://res.cloudinary.com/tmmivgko/image/upload/v1793336617/wyjsgx8ku3z7hfhzglfi.png",
+      "resumeId": "tcykXpg-in4",
+      "jobRole": "Data Scientist",
+      "id": "Mz8Ewr5ZGeQ"
+    },
+    {
+      "timeStamp": "30/10/2026,10:33:46",
+      "resumeImg": "https://res.cloudinary.com/tmmivgko/image/upload/v1793336625/q0yoafvexngfeva7yoxz.png",
+      "resumeId": "tcykXpg-in4",
+      "jobRole": "Data Scientist",
+      "id": "DbgdjKgQzvU"
+    },
+    {
+      "timeStamp": "30/10/2026,10:33:50",
+      "resumeImg": "https://res.cloudinary.com/tmmivgko/image/upload/v1793336629/c2mg6ktv6omkah9rvneh.png",
+      "resumeId": "sVJ9QXh0gsg",
+      "jobRole": "Full Stack Developer",
+      "id": "KWt4zeruhcc"
+    },
+    {
+      "timeStamp": "30/10/2026,10:33:51",
+      "resumeImg": "https://res.cloudinary.com/tmmivgko/image/upload/v1793336630/cmgv595qcuctyfm7uzip.png",
+      "resumeId": "sVJ9QXh0gsg",
+      "jobRole": "Full Stack Developer",
+      "id": "es7RROd_yec"
+    },
+    {
+      "timeStamp": "30/10/2026,10:33:52",
+      "resumeImg": "https://res.cloudinary.com/tmmivgko/image/upload/v1793336631/yrvb9ecxkulgpc9kuhhu.png",
+      "resumeId": "sVJ9QXh0gsg",
+      "jobRole": "Full Stack Developer",
+      "id": "_cv8oMIqRF0"
+    },
+    {
+      "timeStamp": "30/10/2026,10:33:53",
+      "resumeImg": "https://res.cloudinary.com/tmmivgko/image/upload/v1793336632/ichhw3qfpvofvzhyfrhk.png",
+      "resumeId": "sVJ9QXh0gsg",
+      "jobRole": "Full Stack Developer",
+      "id": "t3q9A2wb3Hk"
+    },
+    {
+      "timeStamp": "30/10/2026,10:33:54",
+      "resumeImg": "https://res.cloudinary.com/tmmivgko/image/upload/v1793336633/navbtnmuaj4ghkb3rfck.png",
+      "resumeId": "sVJ9QXh0gsg",
+      "jobRole": "Full Stack Developer",
+      "id": "zOZAmgXLUMo"
+    },
+    {
+      "timeStamp": "30/10/2026,10:33:58",
+      "resumeImg": "https://res.cloudinary.com/tmmivgko/image/upload/v1793336637/zwd3qm7lxoow9tv7heib.png",
+      "resumeId": "8OAzKkHjqig",
+      "jobRole": "Business Analyst",
+      "id": "_Aben1YtJqI"
+    },
+    {
+      "timeStamp": "30/10/2026,10:33:59",
+      "resumeImg": "https://res.cloudinary.com/tmmivgko/image/upload/v1793336638/fpnxggs9hbsbvraqbchr.png",
+      "resumeId": "8OAzKkHjqig",
+      "jobRole": "Business Analyst",
+      "id": "GwsXqIOCntY"
+    },
+    {
+      "timeStamp": "30/10/2026,10:34:17",
+      "resumeImg": "https://res.cloudinary.com/tmmivgko/image/upload/v1793336656/ivdbvsgfkyecbhbnrllp.png",
+      "resumeId": "Kmn0TjJjNwU",
+      "jobRole": "Machine Learning Engineer",
+      "id": "3MA6V-vffwE"
+    }
+  ]
+}
